@@ -1,0 +1,7 @@
+TODO LO QUE HAY QUE HACER
+    - Cambiar barra navegación (más adelante)
+    - Color ✅
+    - Foto del banner Cambiar
+    - Cambiar estructura de index
+    - Cambiar fav-icon
+    - Decidir donde poner whatsapp y correo (en contact me o inicio)
